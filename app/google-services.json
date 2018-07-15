@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "396220952643",
+    "firebase_url": "https://myfirebase-ab5d3.firebaseio.com",
+    "project_id": "myfirebase-ab5d3",
+    "storage_bucket": "myfirebase-ab5d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396220952643:android:260f572b3fb41b46",
+        "android_client_info": {
+          "package_name": "com.example.mridul.a5thprog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396220952643-s0s4dabi0gtraespp1s06p9hnv3vpaoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwzCb13mAfrrD4svSf-78ADsQSASgvVIw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
